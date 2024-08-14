@@ -1,5 +1,5 @@
 function setup() {
-  createCanvas(6000, 5000);
+  createCanvas(60000, 50000);
   background("green");//cor do fundo 
 }
 
